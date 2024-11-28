@@ -26,7 +26,7 @@ This repository contains the slides for my Dual Degree Presentation titled:
 ## **Slides**
 
 ### Slide 1: Title Slide  
-![Slide 1](multimodal_prompt_learning_for_domain_generalization/images/DDP%20Presnetation.jpeg)
+![Slide 1](/images/DDP%20Presnetation.jpeg)
 
 ---
 
